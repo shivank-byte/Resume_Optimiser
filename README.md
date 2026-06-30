@@ -2,7 +2,7 @@
 
 **A structured-output prompt engineering project: an LLM system prompt that turns a single API call into a reliable ATS scorer, recruiter critic, and resume rewriter.**
 
-Live demo: `https://yourname-resume-optimizer.streamlit.app` <!-- update after deploying -->
+Live demo: `https://shivank-resume-optimiser.streamlit.app/'
 
 ---
 
